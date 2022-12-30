@@ -5,11 +5,11 @@
 --
 --amazon_transactions Table
 --
---id: int
---user_id: int
---item: varchar
---created_at: datetime
---revenue: int
+--id:           int
+--user_id:      int
+--item:         varchar
+--created_at:   datetime
+--revenue:      int
 
 
 WITH finale AS (
