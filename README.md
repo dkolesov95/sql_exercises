@@ -13,3 +13,6 @@
 |[Tweets' Rolling Averages](https://github.com/dkolesov95/sql_exercises/blob/main/datalemur/tweets_rolling_averages.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`window function`, `subquery`|
 |[User's Third Transaction ](https://github.com/dkolesov95/sql_exercises/blob/main/datalemur/users_third_transaction.sql)|[Datalemur](https://datalemur.com/?referralCode=appyE5ck)|`cte`, `window function`|
 |[Workers With The Highest Salaries](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/workers_with_the_highest_salaries.sql)|[Stratascratch](https://www.stratascratch.com/)|`join`, `subquery`|
+|[Acceptance Rate By Date](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/acceptance_rate_by_date.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `window function`|
+|[Number Of Units Per Nationality](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/number_of_units_per_nationality.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`, `subquery`|
+|[Income By Title and Gender](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/income_by_title_and_gender.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`|
