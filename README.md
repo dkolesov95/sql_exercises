@@ -16,3 +16,4 @@
 |[Acceptance Rate By Date](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/acceptance_rate_by_date.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `window function`|
 |[Number Of Units Per Nationality](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/number_of_units_per_nationality.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`, `subquery`|
 |[Income By Title and Gender](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/income_by_title_and_gender.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`|
+|[Users By Average Session Time](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/users_by_average_session_time.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
