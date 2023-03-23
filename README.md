@@ -16,3 +16,4 @@
 |14|[Income By Title and Gender](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/income_by_title_and_gender.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `join`|
 |15|[Users By Average Session Time](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/users_by_average_session_time.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
 |16|[Premium vs Freemium](https://github.com/dkolesov95/sql_exercises/blob/main/stratascratch/premium_vs_freemium.sql)|[Stratascratch](https://www.stratascratch.com/)|`cte`, `subquery`, `window function`|
+|17|[Task_21](https://github.com/dkolesov95/sql_exercises/blob/main/karpov_courses/task_21.sql)|[Karpov.Courses](https://karpov.courses//)|`cte`, `subquery`, `join`, `window function`|
